@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipefiisa.github.io/JNS/sitemap_index.txt
+Sitemap: https://ipefiisa.github.io/Mwh/sitemap_index.txt
+Sitemap: https://ipefiisa.github.io/Mxh/sitemap_index.txt
+Sitemap: https://ipefiisa.github.io/gDH/sitemap_index.txt
